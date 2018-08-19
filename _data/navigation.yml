@@ -19,8 +19,8 @@
 - name: FAQ
   link: /faq/
 
-- name: 关于我们
-  link: /about/
-
 - name: 更新
   link: /update/
+
+- name: 关于我们
+  link: /about/
