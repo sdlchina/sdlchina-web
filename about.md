@@ -23,7 +23,7 @@ type: Document
         </li>
 
         <li>
-            <img class="picture" src="/images/head/hzkey.png" alt="">
+            <img class="picture" src="/images/head/hzkey.jpeg" alt="">
             <dl class="desc">
                 <dt>hzkey</dt>
                 <dd> 先行其言而后从之</dd>
