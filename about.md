@@ -15,6 +15,14 @@ type: Document
     <ul class="about-list">
         
         <li>
+            <img class="picture" src="/images/head/doubiduo.jpeg" alt="">
+            <dl class="desc">
+                <dt>doubiduo</dt>
+                <dd>半夜不睡觉，白天爱迟到。</dd>
+            </dl>
+        </li>
+
+        <li>
             <img class="picture" src="/images/head/fengzi.jpeg" alt="">
             <dl class="desc">
                 <dt>fengzi</dt>
