@@ -23,6 +23,14 @@ type: Document
         </li>
 
         <li>
+            <img class="picture" src="/images/head/I.png" alt="">
+            <dl class="desc">
+                <dt>I</dt>
+                <dd> 慎独</dd>
+            </dl>
+        </li>
+
+        <li>
             <img class="picture" src="/images/head/johnathan.jpeg" alt="">
             <dl class="desc">
                 <dt>johnathan</dt>
@@ -45,4 +53,13 @@ type: Document
                 <dd> Life is short,try everything</dd>
             </dl>
         </li>
+
+        <li>
+            <img class="picture" src="/images/head/zhanzhexizao.png" alt="">
+            <dl class="desc">
+                <dt>站着洗澡</dt>
+                <dd>一位来自安全界的小菜鸟</dd>
+            </dl>
+        </li>
+
     </ul>
