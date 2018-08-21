@@ -1,16 +1,8 @@
-- name:
-  link: https://facebook.com/
+- name: GitHub
+  link: https://github.com/sdlchina/sdlchina-web
+  social_icon: github
   new_window: true
-  social_icon: Facebook
-- name:
-  link: https://twitter.com/
-  social_icon: Twitter
-  new_window: true
-- name:
-  link: https://youtube.com/
-  social_icon: YouTube
-  new_window: true
-- name: 
+- name: 订阅
   link: /feed.xml
   social_icon: RSS
   new_window: false
