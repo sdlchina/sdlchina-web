@@ -6,6 +6,13 @@ description:
 type: Document
 ---
 
+## 2018年08月21日
+
+新增内容：
+
+1. 安全培训-运维安全培训
+2. 相关术语增加 SDL 、ROI、ATT&CK 、STRIDE内容
+
 ## 2018年08月20日
 
 修改内容：
