@@ -14,6 +14,7 @@ type: Document
 2. 增加php代码审计工具的文档
 3. 增加导航栏类目，Project
 4. 增加企业为什么需要SDL
+5. 增加成员Murviet
 
 ## 2018年8月26日
 
