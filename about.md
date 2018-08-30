@@ -98,7 +98,7 @@ type: Document
             <img class="picture" src="/images/head/zhanzhexizao.png" alt="">
             <dl class="desc">
                 <dt>站着洗澡</dt>
-                <dd>一位来自安全界的小菜鸟</dd>
+                <dd>大智若愚</dd>
             </dl>
         </li>
 
