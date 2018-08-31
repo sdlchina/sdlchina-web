@@ -15,6 +15,13 @@ type: Document
     <ul class="about-list">
         
         <li>
+            <img class="picture" src="/images/head/108haili.jpeg" alt="">
+            <dl class="desc">
+                <dt>108haili</dt>
+                <dd>生活不应只有诗和远方?还得有一台去远方的车!</dd>
+            </dl>
+        </li>
+        <li>
             <img class="picture" src="/images/head/doubiduo.jpeg" alt="">
             <dl class="desc">
                 <dt>doubiduo</dt>
