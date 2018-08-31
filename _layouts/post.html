@@ -13,7 +13,9 @@ layout: default
 	</section>
 	<section class="tutorial-content">
 		<h1>{{ page.title }}</h1>
-
+		<br>
+		<span id="busuanzi_container_site_pv">本文档访问量<span id="busuanzi_value_page_pv"></span>次</span>
+		<br>
 		{% if page.type == "Video" %}
 			{% include youtube.html video_id=page.video_id %}
 
@@ -81,8 +83,8 @@ layout: default
 	<div>
 		<a title="Close" class="close">&times;</a>
 		<form action="{{ site.newsletter_action }}" method="post">
-			<h2>Subscribe</h2>
-			<p>The latest tutorials sent straight to your inbox.</p>
+			<h2>订阅</h2>
+			<p>最新的教程直接发送到您的收件箱。</p>
 			<input type="email" name="EMAIL" placeholder="Email">
 			<input type="submit" value="Sign up">
 		</form>
