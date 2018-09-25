@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: 所有文档都来自中国互联网一线安全工程师编写整理
+description: 所有文档均由中国互联网一线安全工程师编写整理
 author: 
   name: maniac
   email:
