@@ -183,6 +183,14 @@ type: Document
         </li>
 
         <li>
+            <img class="picture" src="/images/head/Minggle.jpg" alt="">
+            <dl class="desc">
+                <dt>Minggle</dt>
+                <dd>这家伙真的真的真的非常懒，相信我，真的！</dd>
+            </dl>
+        </li>
+
+        <li>
             <img class="picture" src="/images/head/Murviet.png" alt="">
             <dl class="desc">
                 <dt>Murviet</dt>
