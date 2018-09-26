@@ -12,8 +12,6 @@ author: WeiHo@破晓团队
 
 协作：Lost Maniac、1024、pa55w0rd、doubiduo
 
-最后更新时间：2018年08月23日 14:05
-
 -------
 
 ## 输入验证
