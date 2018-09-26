@@ -6,20 +6,6 @@ description:
 type: Document
 ---
 
-## 福利
-
----
-
-SDL China已在开曼群岛申请教育机构合法主体SDL China University。
-
-并且已经申请到EDU域名，地址为：www.sdlchina.edu.ky
-
-所有参与项目成员均可申请xxx@sdlchina.edu.ky邮箱
-
-所有参与项目成员均可使用教师或者学生身份证激活jetbrains所有正版软件
-
----
-
 ## 加入我们
 
 ---
