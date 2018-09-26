@@ -10,7 +10,7 @@ type: Document
 
 ---
 
-贡献文档&修改文档&完善文档皆可加入about页面、且可以申请edu邮箱
+贡献文档&修改文档&完善文档皆可加入about页面、且可以申请xxx@sdlchina.edu.ky邮箱
 
 ---
 
