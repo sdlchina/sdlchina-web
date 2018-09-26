@@ -69,6 +69,15 @@ type: Document
                 <dd>生活不应只有诗和远方?还得有一台去远方的车!</dd>
             </dl>
         </li>
+
+        <li>
+            <img class="picture" src="/images/head/backlion.jpg" alt="">
+            <dl class="desc">
+                <dt>backlion</dt>
+                <dd>本人专注于渗透测试，红蓝对抗以及企业安全建设和安全漏洞研究，喜欢结交朋友乐于分享技术，共同进步，共同发展！</dd>
+            </dl>
+        </li>
+
         <li>
             <img class="picture" src="/images/head/doubiduo.jpeg" alt="">
             <dl class="desc">
