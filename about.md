@@ -55,6 +55,14 @@ type: Document
     <ul class="about-list">
 
         <li>
+            <img class="picture" src="/images/head/1024.jpg" alt="">
+            <dl class="desc">
+                <dt>1024</dt>
+                <dd>Two Steps From Hell - Never Back Down</dd>
+            </dl>
+        </li>
+
+        <li>
             <img class="picture" src="/images/head/108haili.jpeg" alt="">
             <dl class="desc">
                 <dt>108haili</dt>
@@ -66,6 +74,14 @@ type: Document
             <dl class="desc">
                 <dt>doubiduo</dt>
                 <dd>半夜不睡觉，白天爱迟到。</dd>
+            </dl>
+        </li>
+
+        <li>
+        <img class="picture" src="/images/head/dubbo.jpeg" alt="">
+            <dl class="desc">
+                <dt>dubbo</dt>
+                <dd>这个锅，我背了</dd>
             </dl>
         </li>
 
@@ -86,6 +102,22 @@ type: Document
         </li>
 
         <li>
+            <img class="picture" src="/images/head/fireeye.jpg" alt="">
+            <dl class="desc">
+                <dt>fireeye</dt>
+                <dd> 我要异常的的低调，fireeye</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/God.jpeg" alt="">
+            <dl class="desc">
+                <dt>Gòd</dt>
+                <dd>我没什么爱好</dd>
+            </dl>
+        </li>
+
+        <li>
             <img class="picture" src="/images/head/hzkey.jpeg" alt="">
             <dl class="desc">
                 <dt>hzkey</dt>
@@ -97,7 +129,7 @@ type: Document
             <img class="picture" src="/images/head/I.png" alt="">
             <dl class="desc">
                 <dt>I</dt>
-                <dd> 慎独</dd>
+                <dd>慎独</dd>
             </dl>
         </li>
 
@@ -106,6 +138,30 @@ type: Document
             <dl class="desc">
                 <dt>johnathan</dt>
                 <dd> 用心做一个互联网行业信息安全的践行者。</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/jsp-shell.jpg" alt="">
+            <dl class="desc">
+                <dt>jsp-shell</dt>
+                <dd> t66y、tumblr什么的,我一个也没听过!</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/Jun6l3.jpg" alt="">
+            <dl class="desc">
+                <dt>Jun6l3</dt>
+                <dd>不知道写什么好呢，就这个吧，哈哈</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/k4n5ha0.jpeg" alt="">
+            <dl class="desc">
+                <dt>k4n5ha0</dt>
+                <dd> 找不到工作的安全爱好者</dd>
             </dl>
         </li>
 
@@ -138,6 +194,38 @@ type: Document
             <dl class="desc">
                 <dt>Weiho</dt>
                 <dd> Life is short,try everything</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/xiaoletian.jpeg" alt="">
+            <dl class="desc">
+                <dt>小乐天</dt>
+                <dd> 没有不可能</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/xiatao.jpeg" alt="">
+            <dl class="desc">
+                <dt>夏韬</dt>
+                <dd> 信息安全爱好者</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/xuandao.jpeg" alt="">
+            <dl class="desc">
+                <dt>玄道</dt>
+                <dd>鲜衣怒马为中华，我以我血荐轩辕</dd>
+            </dl>
+        </li>
+
+        <li>
+            <img class="picture" src="/images/head/yitiaoyu.jpeg" alt="">
+            <dl class="desc">
+                <dt>一条鱼</dt>
+                <dd>为人民服务</dd>
             </dl>
         </li>
 
