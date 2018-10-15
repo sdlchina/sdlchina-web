@@ -49,7 +49,7 @@ sdlchina-web/_posts/3.SDL落地方案/2018-08-17-SDL-3-产品设计.md
 
 选择**edit**或者**create new file**，文件名必须要符合: ```YEAR-MONTH-DAY-title.md```
 
-![图片1](1.png)
+![图片1](https://github.com/sdlchina/sdlchina-web/raw/master/images/2018/10/github/1.png)
 
 2. 编辑文档
 所有博客文章顶部必须有一段YAML头信息(YAML front- matter),文章可以使用markdown格式编写
@@ -66,20 +66,20 @@ type: Document
 
 编辑完成之后点击**commit changes**(同命令```git add . && git commit -m "添加产品设计" && git pusht origin master```)
 
-![图片2](2.png)
+![图片2](https://github.com/sdlchina/sdlchina-web/raw/master/images/2018/10/github/2.png)
 
 3. 提交pull请求
 点击**New pull request**
 
-![图片3](3.png)
+![图片3](https://github.com/sdlchina/sdlchina-web/raw/master/images/2018/10/github/3.png)
 
 检查没有问题，点击**Create pull request**
 
-![图片4](4.png)
+![图片4](https://github.com/sdlchina/sdlchina-web/raw/master/images/2018/10/github/4.png)
 
 提交成功，等待管理员**Merge**之后就成功了
 
-![图片5](5.png)
+![图片5](https://github.com/sdlchina/sdlchina-web/raw/master/images/2018/10/github/5.png)
 
 ## 署名
 
