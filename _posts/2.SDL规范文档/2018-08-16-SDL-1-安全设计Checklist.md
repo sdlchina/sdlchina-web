@@ -1,6 +1,6 @@
 ---
 date: 2018-08-16
-title: 1.安全设计Checklist
+title: 01.安全设计Checklist
 categories:
   - 2.SDL规范文档
 description: 安全设计是SDL第一步需要检查的内容，所以第一步一定要做好，本篇文章的作者是
@@ -11,8 +11,6 @@ author: WeiHo@破晓团队
 作者：WeiHo@破晓团队（整理）
 
 协作：Lost Maniac、1024、pa55w0rd、doubiduo
-
-最后更新时间：2018年08月23日 14:05
 
 -------
 
