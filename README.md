@@ -2,12 +2,15 @@
 
 所有文档都来自中国互联网一线安全工程师编写整理
 
+
 ## 官网
 
 ```
 https://www.sdlchina.org.cn
 ```
- 
+
+官网状态：[![Build Status](https://travis-ci.com/sdlchina/sdlchina-web.svg?branch=master)](https://travis-ci.com/sdlchina/sdlchina-web)
+
 ## 下载文档方法
 
 clone 项目到本地
