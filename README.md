@@ -6,7 +6,7 @@
 ## 官网
 
 ```
-https://www.sdlchina.org.cn
+https://www.SecurityPaper.org
 ```
 
 官网状态：[![Build Status](https://travis-ci.com/sdlchina/sdlchina-web.svg?branch=master)](https://travis-ci.com/sdlchina/sdlchina-web)
