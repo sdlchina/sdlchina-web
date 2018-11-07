@@ -1,6 +1,3 @@
-＃将域别名重定向到主域
-https://www.sdlchina.org.cn/* https://www.SecurityPaper.org/:splat 301！
-https://sdlchina.org.cn/* https://www.SecurityPaper.org/:splat 301！
-＃可选：将默认Netlify子域重定向到主域
-https://stoic-blackwell-f1a55e.netlify.com/* https://www.sdlchina.org.cn/:splat 301！
-
+https://www.sdlchina.org.cn/* https://www.securitypaper.org/:splat 301！
+https://sdlchina.org.cn/* https://www.securitypaper.org/:splat 301！
+https://stoic-blackwell-f1a55e.netlify.com/* https://www.securitypaper.org/:splat 301！
