@@ -91,6 +91,4 @@ types:
 
 _comments:
 
-include:
-  _headers
-  _redirects
+include: ["_headers","_redirects"]
