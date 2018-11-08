@@ -1,8 +1,0 @@
-- name: GitHub
-  link: https://github.com/sdlchina/sdlchina-web
-  social_icon: github
-  new_window: true
-- name: 订阅
-  link: /feed.xml
-  social_icon: RSS
-  new_window: false
